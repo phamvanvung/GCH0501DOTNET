@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ses1HelloWorld", "Ses1HelloWorld\Ses1HelloWorld.csproj", "{D2C142E4-CBB9-49EE-9B17-3CA3FE70DD41}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ses2GradeBook", "Ses2GradeBook\Ses2GradeBook.csproj", "{ADA4750B-0FC9-4155-B0C3-F5D8B0922C1C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D2C142E4-CBB9-49EE-9B17-3CA3FE70DD41}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2C142E4-CBB9-49EE-9B17-3CA3FE70DD41}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2C142E4-CBB9-49EE-9B17-3CA3FE70DD41}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2C142E4-CBB9-49EE-9B17-3CA3FE70DD41}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ADA4750B-0FC9-4155-B0C3-F5D8B0922C1C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADA4750B-0FC9-4155-B0C3-F5D8B0922C1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ADA4750B-0FC9-4155-B0C3-F5D8B0922C1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ADA4750B-0FC9-4155-B0C3-F5D8B0922C1C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

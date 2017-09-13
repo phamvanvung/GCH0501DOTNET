@@ -1,0 +1,10 @@
+/Users/phamvanvung/Projects/GCH0501/Ses1HelloWorld/bin/Debug/netcoreapp1.1/Ses1HelloWorld.deps.json
+/Users/phamvanvung/Projects/GCH0501/Ses1HelloWorld/bin/Debug/netcoreapp1.1/Ses1HelloWorld.runtimeconfig.json
+/Users/phamvanvung/Projects/GCH0501/Ses1HelloWorld/bin/Debug/netcoreapp1.1/Ses1HelloWorld.runtimeconfig.dev.json
+/Users/phamvanvung/Projects/GCH0501/Ses1HelloWorld/bin/Debug/netcoreapp1.1/Ses1HelloWorld.dll
+/Users/phamvanvung/Projects/GCH0501/Ses1HelloWorld/bin/Debug/netcoreapp1.1/Ses1HelloWorld.pdb
+/Users/phamvanvung/Projects/GCH0501/Ses1HelloWorld/obj/Debug/netcoreapp1.1/Ses1HelloWorld.csprojResolveAssemblyReference.cache
+/Users/phamvanvung/Projects/GCH0501/Ses1HelloWorld/obj/Debug/netcoreapp1.1/Ses1HelloWorld.csproj.CoreCompileInputs.cache
+/Users/phamvanvung/Projects/GCH0501/Ses1HelloWorld/obj/Debug/netcoreapp1.1/Ses1HelloWorld.AssemblyInfo.cs
+/Users/phamvanvung/Projects/GCH0501/Ses1HelloWorld/obj/Debug/netcoreapp1.1/Ses1HelloWorld.dll
+/Users/phamvanvung/Projects/GCH0501/Ses1HelloWorld/obj/Debug/netcoreapp1.1/Ses1HelloWorld.pdb

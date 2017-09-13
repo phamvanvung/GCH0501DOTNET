@@ -1,0 +1,5 @@
+/Users/phamvanvung/Projects/GCH0501/Ses2GradeBook/bin/Debug/Ses2GradeBook.exe
+/Users/phamvanvung/Projects/GCH0501/Ses2GradeBook/bin/Debug/Ses2GradeBook.pdb
+/Users/phamvanvung/Projects/GCH0501/Ses2GradeBook/obj/Debug/Ses2GradeBook.csproj.CoreCompileInputs.cache
+/Users/phamvanvung/Projects/GCH0501/Ses2GradeBook/obj/Debug/Ses2GradeBook.exe
+/Users/phamvanvung/Projects/GCH0501/Ses2GradeBook/obj/Debug/Ses2GradeBook.pdb

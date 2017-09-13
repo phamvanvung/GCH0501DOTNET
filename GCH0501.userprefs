@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{ADA4750B-0FC9-4155-B0C3-F5D8B0922C1C}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Ses2GradeBook/GradeBook.cs">
+    <Files>
+      <File FileName="Ses2GradeBook/Program.cs" Line="9" Column="39" />
+      <File FileName="Ses2GradeBook/GradeBook.cs" Line="9" Column="9" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Ses2GradeBook PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Ses1HelloWorld PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>
