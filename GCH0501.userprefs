@@ -1,8 +1,9 @@
-﻿<Properties StartupConfiguration="{ADA4750B-0FC9-4155-B0C3-F5D8B0922C1C}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Ses2GradeBook/GradeBook.cs">
+﻿<Properties StartupConfiguration="{4FA19010-82E8-4050-9D31-CEC5260FD543}|Default">
+  <MonoDevelop.Ide.ItemProperties.Ses3BreakVsContinue PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Ses4SimpleClassExample/Program.cs">
     <Files>
-      <File FileName="Ses2GradeBook/Program.cs" Line="9" Column="39" />
-      <File FileName="Ses2GradeBook/GradeBook.cs" Line="9" Column="9" />
+      <File FileName="Ses4SimpleClassExample/Program.cs" Line="12" Column="15" />
+      <File FileName="Ses4SimpleClassExample/Car.cs" Line="7" Column="24" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.ItemProperties.Ses2GradeBook PreferredExecutionTarget="MonoDevelop.Default" />
@@ -13,4 +14,5 @@
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.ItemProperties.Ses1HelloWorld PreferredExecutionTarget="MonoDevelop.Default" />
   <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Ses4SimpleClassExample PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>

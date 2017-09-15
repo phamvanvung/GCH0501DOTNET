@@ -1,0 +1,5 @@
+/Users/phamvanvung/Projects/GCH0501/Ses4SimpleClassExample/bin/Debug/Ses4SimpleClassExample.exe
+/Users/phamvanvung/Projects/GCH0501/Ses4SimpleClassExample/bin/Debug/Ses4SimpleClassExample.pdb
+/Users/phamvanvung/Projects/GCH0501/Ses4SimpleClassExample/obj/Debug/Ses4SimpleClassExample.csproj.CoreCompileInputs.cache
+/Users/phamvanvung/Projects/GCH0501/Ses4SimpleClassExample/obj/Debug/Ses4SimpleClassExample.exe
+/Users/phamvanvung/Projects/GCH0501/Ses4SimpleClassExample/obj/Debug/Ses4SimpleClassExample.pdb
